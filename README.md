@@ -11,3 +11,14 @@ Add the ``.bashrc`` file in root directory
 
 
 
+
+
+
+
+
+
+The thread which helped me- <a>https://gist.github.com/bashbunni/3880e4194e3f800c4c494de286ebc1d7</a>
+
+
+
+
