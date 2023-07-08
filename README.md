@@ -11,7 +11,8 @@ Add the ``.bashrc`` file in root directory (NOTE: this file config is only for l
 ### Samples
 
 ![image](sampleshots/change_work.gif)
-![video](sampleshots/pomodoro.mp4)
+
+A sample [video](sampleshots/pomodoro.gif) for pomodoro session with pop-up notification and text-to-speech converter(using ``std-say`` in bash), (this video doesn't showcase the audio feature, just run it on your machine it will work)
 
 
 
