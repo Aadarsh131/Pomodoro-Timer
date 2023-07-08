@@ -6,10 +6,12 @@ Install the [timer](https://github.com/caarlos0/timer.git)(written in GO) and [l
 
 ## Step 2
 
-Add the ``.bashrc`` file in root directory
+Add the ``.bashrc`` file in root directory (NOTE: this file config is only for linux users)
 
+### Samples
 
-
+![image](sampleshots/change_work.gif)
+![video](sampleshots/pomodoro.mp4)
 
 
 
